@@ -176,9 +176,16 @@ nav a:hover {
 
 .legends {
   display: grid;
-  grid-template-columns: 100%;
-  grid-template-rows: 20% 20% 20% 20% 20%;
+  grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+  grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
 }
 .legend_img {
-  grid-row-start: 3;
+  grid-row-start: 7;
+  grid-column-start: 3;
+}
+.legend_title {
+  grid-row-start: 1;
+}
+.legend_intro {
+  grid-row-start: 2;
 }
