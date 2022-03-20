@@ -179,3 +179,6 @@ nav a:hover {
   grid-template-columns: 100%;
   grid-template-rows: 20% 20% 20% 20% 20%;
 }
+.legend_img {
+  grid-row-start: 3;
+}
