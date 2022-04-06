@@ -186,7 +186,7 @@ nav a:hover {
   max-width: 400px
   max-height: 300px
 }
-.legend_title {
+.legend_header {
   grid-row: 1/1;
   grid-column: 2/10;
 }
