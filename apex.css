@@ -210,3 +210,6 @@ nav a:hover {
   grid-row: 3.5/9;
   grid-column: 1/11;
 }
+a {
+  grid-row: 10/11;
+}
