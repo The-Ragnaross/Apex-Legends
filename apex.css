@@ -191,7 +191,7 @@ nav a:hover {
   margin-left: auto;
   margin-right: auto;
   max-width: 50%;
-  grid-row: 2/3;
+  grid-row: 1.5/2;
   grid-column: 1/6;
 }
 .legend_header {
@@ -199,7 +199,7 @@ nav a:hover {
   grid-column: 2/10;
 }
 .legend_intro {
-  grid-row: 2/2;
+  grid-row: 3/3.5;
   grid-column: 2/10;
 }
 .maps {
@@ -208,6 +208,6 @@ nav a:hover {
 }
 .legends_info {
   text-align: center;
-  grid-row: 3/11;
+  grid-row: 4/9;
   grid-column: 1/11;
 }
