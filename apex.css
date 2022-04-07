@@ -188,7 +188,7 @@ nav a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  max-width: 50%;
 }
 .legend_header {
   grid-row: 1/1;
