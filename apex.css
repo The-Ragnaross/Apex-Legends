@@ -222,11 +222,11 @@ a {
   width: 100%;
   height: auto;
   grid-row: 2/2;
-  grid-column: auto;
+  grid-column: 1/11;
 }
 .map_intro {
   grid-row: 1/1;
-  grid-column: center;
+  grid-column: 1/11;
 }
 .map_info {
   grid-row: 3/3;
@@ -241,5 +241,5 @@ a {
 }
 .footer {
   grid-row: 10/11;
-  grid-column: auto;
+  grid-column: 1/11;
 }
