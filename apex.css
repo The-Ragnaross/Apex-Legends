@@ -206,6 +206,6 @@ nav a:hover {
 }
 .legends_info {
   text-align: center;
-  grid-row: 1/1;
+  grid-row: 3/11;
   grid-column: 1/11;
 }
